@@ -1,5 +1,7 @@
 .venv/
 log/
+wandb/
+hellaswag/
 *.pt
 edu_fineweb10B/
 __pycache__/
